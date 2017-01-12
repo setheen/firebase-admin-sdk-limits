@@ -1,0 +1,15 @@
+{
+  "name": "hydrate-firebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --harmony-async-await index.js"
+  },
+  "author": "Andy Johnson",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^4.0.4"
+  }
+}

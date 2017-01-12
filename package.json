@@ -1,0 +1,24 @@
+{
+  "name": "firebase-admin-sdk-limits",
+  "version": "1.0.0",
+  "description": "Small app illustrating existing firebase-admin SDK limitations",
+  "main": "index.js",
+  "dependencies": {
+    "firebase-admin": "^4.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/setheen/firebase-admin-sdk-limits.git"
+  },
+  "author": "Andy Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/setheen/firebase-admin-sdk-limits/issues"
+  },
+  "homepage": "https://github.com/setheen/firebase-admin-sdk-limits#readme"
+}
